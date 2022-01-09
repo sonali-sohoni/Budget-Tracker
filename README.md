@@ -28,7 +28,7 @@ This is a Progressive Web Application which allows user to track their expenses 
 
 
 
-##Screenshots
+## Screenshots
 ![bt1](https://user-images.githubusercontent.com/88642738/148691428-a43672ad-6d5d-41b9-a8a3-3ac8ad270cd6.png)
 ![bt2](https://user-images.githubusercontent.com/88642738/148691429-b0a086cb-c0e2-48ab-869d-684cc970ef28.png)
 ![bt3](https://user-images.githubusercontent.com/88642738/148691430-4f24bd96-4402-4889-90c8-ecd2c8c4eb9d.png)
